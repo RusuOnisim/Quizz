@@ -7,7 +7,7 @@ Quizz is a simple translation game designed for learning and fun. The game promp
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/quizz.git
+   git clone https://github.com/RusuOnisim/quizz.git
 
 2. **Navigate to the folder:**
 
@@ -32,5 +32,5 @@ Press this link to access the [Live Demo](https://rusuonisim.github.io/Quizz/)
 [Onisim Rusu](https://github.com/RusuOnisim)
 
 ## Date
-1/05/2024
+05/01/2024
 
